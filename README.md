@@ -72,7 +72,6 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 ## STM 32 CUBE PROGRAM :
 ```
-
 #include "main.h"
 #include "stdbool.h"
 
@@ -172,19 +171,16 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 
-
 ## Output screen shots of proteus  :
-<img width="834" height="522" alt="image" src="https://github.com/user-attachments/assets/3a59098e-b45b-4114-b1c2-9e8799da62ba" />
+<img width="1920" height="1200" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/61baccf6-c3cc-43f5-a153-effa70c644fa" />
 
 
 
-
-
-## Proteus layout(Add pdf screen shot of circuit here):
-<img width="832" height="497" alt="image" src="https://github.com/user-attachments/assets/f1387949-9088-4483-a3b2-d2511420b41a" />
+## Proteus layout(Add pdf screen shot of circuit here)
+ <img width="1449" height="862" alt="Screenshot 2026-08-05 093202" src="https://github.com/user-attachments/assets/4aaf834a-b0ea-43ee-8248-7688e74a7242" />
 
  
- 
+
  
  
 ## Result :
